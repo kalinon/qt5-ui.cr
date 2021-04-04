@@ -1,0 +1,14 @@
+name: qt5-ui
+version: 0.1.0
+
+authors:
+  - Holden Omans <holden.omans@gmail.com>
+
+crystal: 1.0.0
+
+license: MIT
+
+dependencies:
+  qt5:
+    github: kalinon/qt5.cr
+    branch: darwin-5.15-ready
